@@ -1,2 +1,3 @@
 # p2p-app
-This is peer-to-peer application. You can read about in readme.
+
+This application will help you with creating and managing peer-to-peer connections.
